@@ -1,0 +1,13 @@
+{
+  "name": "Warframe Market",
+  "description": "A cool website dedicated to the game 'Warframe'.",
+  "banner": "landon.jpg2.png",
+  "language": "HTML/CSS",
+  "status": "Completed",
+  "featured": true,
+  "year": 2026,
+  "authors": [
+    "Landon"
+  ],
+  "link": "https://carterville-coding-club.github.io/Warframe-Market/files/index.html"
+}
